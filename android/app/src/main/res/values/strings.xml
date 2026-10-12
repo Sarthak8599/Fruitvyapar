@@ -1,0 +1,7 @@
+<?xml version='1.0' encoding='utf-8'?>
+<resources>
+    <string name="app_name">FruitVyapar</string>
+    <string name="title_activity_main">FruitVyapar</string>
+    <string name="package_name">com.fruitvyapar.app</string>
+    <string name="custom_url_scheme">com.fruitvyapar.app</string>
+</resources>
