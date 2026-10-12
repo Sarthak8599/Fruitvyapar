@@ -24,7 +24,13 @@ In traditional Indian agriculture and fruit commerce:
 3. **High Perishability & Severe Food Wastage:**
    * Unlike grains, fruits (mangoes, grapes, bananas, pomegranates, citrus) have a critical shelf life of just 3 to 7 days post-harvest.
    * Logistical delays in finding distant buyers lead to massive post-harvest spoilage and distress sales at loss-making rates.
-4. **Digital & Language Barriers:**
+4. **Wasted Days & Massive Fuel Consumption for Traders & Fruit Vendors (दिवसभर भटकंती आणि इंधनाचा भुर्दंड):**
+   * Small fruit vendors, local weekly bazaar traders, and fruit shop owners spend **an entire day** physically traveling between distant villages, farms, and orchards on motorcycles, tempos, or buses just hunting for who has harvest-ready fruit for tomorrow's morning market.
+   * **Severe Fuel & Time Losses:**
+     * **High Petrol/Fuel Burn:** Driving 50 km to 100+ km without any confirmation of fruit availability burns a significant portion of daily profits on fuel.
+     * **Lost Business Day:** An entire working day is lost in transit and searching rather than selling and generating income.
+     * **Supply Uncertainty & Empty Trips:** Vendors often reach distant orchards only to find produce already sold, underripe, or overpriced.
+5. **Digital & Language Barriers:**
    * Most rural producers cannot navigate complicated English-only e-commerce apps or complex registration workflows.
 
 ---
@@ -34,6 +40,8 @@ In traditional Indian agriculture and fruit commerce:
 FruitVyapar was engineered specifically to solve these fundamental bottlenecks:
 
 * **📈 25% – 35% Higher Farmer Revenue:** Direct trade connects farmers with bulk buyers, retailers, and consumers with zero commission fees.
+* **⏱️ Saves 1 Full Day & Eliminates Fuel Wastage for Traders:** Local vendors and fruit sellers no longer have to burn expensive petrol roaming between villages for hours. In seconds, they see who has fruits ready, confirm details over phone/WhatsApp, and make a single targeted pickup.
+* **📅 Just-In-Time Daily Sourcing for Tomorrow's Market:** Fruit vendors can plan their inventory for tomorrow's morning market from their home the evening before, ensuring fresh, daily-picked fruit with zero guesswork.
 * **🚚 Hyper-Local Discovery (5 km – 300 km):** Distance-based radius matching finds buyers within hours of harvesting, preventing transit spoilage.
 * **🗣️ Vernacular Inclusivity:** Native, single-click language toggle across **मराठी (Marathi)**, **हिंदी (Hindi)**, and **English**.
 * **📞 Instant Direct Trade:** Single-tap WhatsApp and phone call buttons connect buyers directly with farmers without intermediaries holding transactions hostage.
